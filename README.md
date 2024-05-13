@@ -12,7 +12,6 @@ Requirements:
 
 Clone the git repo, open the terminal then type:
 ```BASH
-mkdir build
 cd build
 cmake ..
 # use mingw64-make command on Windows instead of make
