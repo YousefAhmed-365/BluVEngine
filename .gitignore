@@ -1,2 +1,5 @@
-/build
-README.md
+/build/CMakeFiles/
+/build/cmake_install.cmake
+/build/CMakeCache.txt
+/build/Makefile
+/build/BluVEngine
